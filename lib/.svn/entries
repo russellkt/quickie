@@ -1,0 +1,43 @@
+8
+
+dir
+6
+svn://rubyforge.org/var/svn/quickbooks/trunk/lib
+svn://rubyforge.org/var/svn/quickbooks
+
+
+
+2006-09-22T02:33:15.963833Z
+6
+chrisabruce
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0eb1a872-461d-0410-a379-984e9e9c21cf
+
+quickbooks
+dir
+
+quickbooks.rb
+file
+
+
+
+
+2007-02-01T19:22:50.000000Z
+9740e1bb5e45a26a347fd132132612df
+2006-09-22T02:33:15.963833Z
+6
+chrisabruce
+

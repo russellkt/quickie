@@ -1,0 +1,52 @@
+8
+
+dir
+6
+svn://rubyforge.org/var/svn/quickbooks/trunk/lib/quickbooks/models
+svn://rubyforge.org/var/svn/quickbooks
+
+
+
+2006-09-22T02:33:15.963833Z
+6
+chrisabruce
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0eb1a872-461d-0410-a379-984e9e9c21cf
+
+models.rb
+file
+
+
+
+
+2007-02-01T19:22:50.000000Z
+089106a38c615ec7ff2dd44a6b0821d2
+2006-09-22T02:33:15.963833Z
+6
+chrisabruce
+
+base.rb
+file
+
+
+
+
+2007-02-01T19:22:50.000000Z
+88927b541402b89d6d8674d93141f82c
+2006-09-22T02:33:15.963833Z
+6
+chrisabruce
+
